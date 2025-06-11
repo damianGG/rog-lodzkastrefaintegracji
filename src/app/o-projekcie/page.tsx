@@ -44,28 +44,19 @@ export default function News() {
             <div className="container mb-15 mt-15" >
                 <div className=" mt-4 mb-15">
                     <br />
-                    <p className="mb-3 fw-bold lead fs-lg">Wartość projektu: 841 281,55 zł </p>
-                    <p className="mb-3 fw-bold lead fs-lg">Wysokość wkładu Funduszy Europejskich: 715 089,31 zł</p>
+                    <p className="mb-3 fw-bold lead fs-lg">Wartość projektu: 746 090,71zł </p>
+                    <p className="mb-3 fw-bold lead fs-lg">Wysokość wkładu Funduszy Europejskich: 708 786,17 zł</p>
                     <br />
 
                     <p className="mb-3 fw-bold lead fs-lg">
                         Głównym celem projektu jest wsparcie aktywnego włączenia społecznego w celu
                         promowania równości szans, niedyskryminacji i aktywnego uczestnictwa oraz
-                        zwiększanie zdolności do zatrudnienia 60 osób (40 kobiet i 20 mężczyzn)
-                        znajdujących się w niekorzystnej sytuacji – zagrożonych ubóstwem lub wykluczeniem
-                        społecznym w wieku 18 lat i więcej zamieszkałych w rozumieniu Kodeksu Cywilnego
-                        na obszarze województwa podkarpackiego, a tym samym zwiększenie ich
-                        aktywności społecznej i zawodowej w okresie realizacji projektu, tj. od 01.03.2025 r.
-                        do 28.02.2026 r. Cel ten zostanie osiągnięty poprzez objęcie uczestników/czek
-                        kompleksowym wsparciem na podstawie przeprowadzonej diagnozy, opracowanie
-                        Indywidualnej Ścieżki Reintegracji i dobranie odpowiednich instrumentów aktywizacji
-                        społecznej, zawodowej i zdrowotnej.
+                        zwiększenie zdolności do zatrudnienia w szczególności grup w niekorzystnej sytuacji,
+                        tj. 52 osób (32K, 20M) zagrożonych ubóstwem i wykluczeniem społecznym oraz ich
+                        otoczenia powyżej 29 roku życia, zamieszkujących na obszarze woj. łódzkiego w
+                        rozumieniu KC w okresie 01.01.2025-31.12.2025.
                         <br />
-                        <br />
-                        Dzięki udziałowi w projekcie sytuacja społeczna Uczestników/czek ulegnie poprawie,
-                        uzyskają oni kwalifikacje zawodowe, część osób podejmie zatrudnienie, a część -
-                        osoby bierne zawodowo - rozpoczną poszukiwanie pracy.
-                        <br />
+
                     </p>
                 </div>
 
@@ -92,10 +83,13 @@ export default function News() {
                     <div className="col-lg-6">
 
 
-                        <p className="display-6 mb-3">Udział w projekcie obejmuje:</p>
+                        <p className="display-6 mb-3">Udział w projekcie obejmuje następujące elementy:</p>
 
                         <p className="lead fs-lg">
-                            Stworzenie Indywidualnej Ścieżki Reintegracji (IŚR)
+                            Opracowanie wraz z podsumowaniem Indywidualnej Ścieżki
+                            Reintegracji (IŚR) z uwzględnieniem diagnozy sytuacji problemowej,
+                            zasobów, potencjału, predyspozycji, potrzeb uczestników projektu –
+                            dla wszystkich Uczestników/czek projektu
                         </p>
 
                         <div className="row gy-3 gx-xl-8">
@@ -103,35 +97,28 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Uczestnik/czka wspólnie z doradcą zawodowym i psychologiem stworzą
-                                        Indywidualną Ścieżkę Reintegracji (IŚR) dla każdego/j Uczestnika/czki
-                                        projektu.                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        Dokument ten będzie spersonalizowanym planem działania uwzględniającym
-                                        diagnozę sytuacji problemowej, zasobów, potencjału, predyspozycji i potrzeb
-                                        Uczestnika/czki projektu, według którego dana osoba zostanie
-                                        poprowadzony/a w dalszych etapach realizacji projektu.
+                                        Uczestnik/czka wspólnie z doradcą zawodowym oraz psychologiem będzie
+                                        uczestniczyć w przygotowaniu dla niego/niej Indywidualnej Ścieżki
+                                        Reintegracji – zestawu kompleksowych, zindywidualizowanych i
+                                        uzupełniających się form wsparcia, mających na celu wyprowadzenie z
+                                        ubóstwa lub wykluczenia społecznego.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Na podstawie IŚR oraz indywidualnej diagnozy potrzeb każdy/a
-                                        z Uczestników/czek projektu otrzyma ofertę wsparcia, obejmującą takie formy
-                                        pomocy, które będą niezbędne do poprawy jego/jej sytuacji społeczno-
-                                        zawodowej i które przyczynią się do podjęcia przez Uczestnika/czkę
-                                        zatrudnienia.
+                                        Na podstawie Indywidualnej Ścieżki Reintegracji i indywidualnej diagnozy
+                                        dobierany będzie rodzaj wsparcia dla każdego/j Uczestnika/czki.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Indywidualna Ścieżka Reintegracji zostanie opracowana podczas
-                                        indywidualnych sesji z:<br />
-                                        - doradcą zawodowym – śr. 3 godz. zegarowe,<br />
-                                        - psychologiem – śr. 2 godz. zegarowe.
+                                        Na koniec wsparcia danego/j Uczestnika/czki nastąpi podsumowanie IŚR.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Wsparciem zostanie objętych 60 Uczestników/czek.
+                                        Każdy/a Uczestnik/czka otrzyma 4 godz. zegarowe indywidualnych sesji z
+                                        doradcą zawodowym oraz 2 godz. zegarowe indywidualnych sesji z
+                                        psychologiem.
                                     </li>
+
 
                                 </ul>
                             </div>
@@ -164,7 +151,8 @@ export default function News() {
                         <h2 className="display-4 mb-3"></h2>
 
                         <p className="lead fs-lg">
-                            Instrumenty aktywizacji społecznej
+                            Poradnictwo specjalistyczne psychologiczne – dla wszystkich
+                            Uczestników/czek projektu
                         </p>
 
                         <div className="row gy-3 gx-xl-8">
@@ -172,37 +160,34 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        W ramach instrumentów aktywizacji społecznej przewidziano:<br />
-                                        - indywidualne poradnictwo psychologiczne i psychospołeczne – dla 60
-                                        Uczestników/czek;<br />
-                                        - indywidualne porady prawne – dla 12 Uczestników/czek;<br />
-                                        - indywidualny life-coaching – dla 16 Uczestników/czek;
+                                        Celem poradnictwa będzie wsparcie Uczestników/czek w odzyskaniu
+                                        równowagi emocjonalnej i zmotywowanie do podjęcia zmian w swoim życiu,
+                                        jak również wyposażenie w nowe umiejętności społeczne, w tym asertywność
+                                        i komunikację.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Indywidualne porady prawne będą miały na celu wsparcie Uczestników/czek
-                                        projektu w rozwiązywaniu problemów prawnych determinujących ich
-                                        wykluczenie i ubóstwo. Wsparcie obejmować będzie porady prawne z zakresu
-                                        prawa pracy, cywilnego i rodzinnego, pomoc w rozwiązywaniu spraw
-                                        mieszkaniowych, socjalnych i alimentacyjnych, informowanie o możliwościach
-                                        korzystania ze świadczeń z pomocy społecznej i innych rozwiązań
-                                        ustawowych oraz pomoc w pisaniu pism/wniosków do urzędów. Przewidziano
-                                        śr. 4 godz. zegarowe indywidualnych spotkań dla 12 Uczestników/czek
-                                        projektu.
+                                        Wsparcie będzie dostosowane do sytuacji danego/j Uczestnika/czki i dobrane
+                                        zostaną najbardziej adekwatne działania do zdiagnozowanych potrzeb.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Indywidualny life-coaching ukierunkowany będzie na rozwijanie kompetencji
-                                        społecznych, sztukę asertywności, budowanie samooceny, skuteczne
-                                        sposoby komunikacji, zarządzanie czasem i budżetem domowym,
-                                        odnalezienie ścieżki życiowej, organizację swojej pracy, relacje międzyludzkie,
-                                        zmianę przekonań oraz nawyków. Life-coaching będzie umożliwiał rozwój
-                                        osobisty Uczestników/czek i realizację ich prywatnych celów, zgodnych z
-                                        własnym systemem wartości. Podczas spotkań poruszona zostanie także
-                                        tematyka gospodarowania domowym budżetem. Przewidziano śr. 4 godz.
-                                        zegarowe indywidualnych spotkań dla 16 Uczestników/czek projektu.
+                                        Po rozeznaniu się w dokładnej sytuacji Uczestnika/czki psycholog wykona
+                                        testy czy analizy, udzieli rad, wskazówek i podpowiedzi umożliwiających
+                                        wyjście z trudnej sytuacji społeczno-zawodowej.
                                     </li>
-
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Dzięki pracy z psychologiem Uczestnicy/czki odreagują napięcie/stres
+                                        związane z trudnościami, będą mogli rozpoznać i zrozumieć swoje problemy,
+                                        wspólnie poszukają ich źródła, a także sposobów ich rozwiązania, odzyskają
+                                        wpływ na kształtowanie swojego życia i uwierzą we własne siły, a także
+                                        zostaną ustalone cele i sposoby działania w sytuacjach kryzysowych.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Każdy/a Uczestnik/czka projektu otrzyma 2 godz. zegarowe wsparcia.
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -212,30 +197,31 @@ export default function News() {
                     <div className="col-lg-6">
                         <h2 className="display-4 mb-3"></h2>
                         <p className="lead fs-lg">
-                            Warsztaty rozwoju osobistego
+                            Indywidualne specjalistyczne poradnictwo prawne - dla połowy
+                            Uczestników/czek projektu
                         </p>
                         <div className="row gy-3 gx-xl-8">
                             <div className="col-xl-12">
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Celem warsztatów będzie pogłębienie i doskonalenie własnego rozwoju
-                                        zawodowego i osobistego. Spotkania wpłyną na lepszą samoocenę i
-                                        samoświadomość Uczestników/czek, które w rezultacie wpłyną na zwiększone
-                                        osiągnięcia w życiu zawodowym i prywatnym.
+                                        Celem wsparcia będzie udzielenie Uczestnikom projektu porad prawnych dot.
+                                        m.in. prawa pracy, cywilnego i rodzinnego, rozwiązywania spraw
+                                        mieszkaniowych, socjalnych i alimentacyjnych, udzielania informacji o
+                                        możliwości korzystania ze świadczeń z pomocy społecznej i innych rozwiązań
+                                        ustaw. oraz udzielenie pomocy w pisaniu pism/wniosków do urzędów.
                                     </li>
                                     <li>
                                         <i className="uil uil-check" />
-                                        Wsparcie będzie dotyczyło takich zagadnień, jak rozwijanie
-                                        samoświadomości, analiza własnych emocji i lepsze ich zrozumienie,
-                                        podnoszenie poczucia własnej wartości, zwiększenie zadowolenia z życia,
-                                        wyciąganie pozytywnych aspektów z danej sytuacji, poznanie swoich mocnych
-                                        stron oraz otwarcie na nowe doświadczenia.
+                                        Poradnictwo wesprze Uczestników/czki w rozwiązywaniu problemów
+                                        prawnych, determinujących ich wykluczenie społeczne i ubóstwo. Konsultacje
+                                        z prawnikiem pomogą osobom wykluczonym i zagrożonym ubóstwem nabyć
+                                        wiedzę w zakresie przysługujących im praw i obowiązków.
                                     </li>
                                     <li>
                                         <i className="uil uil-check" />
-                                        Wsparcie przewidziano dla 12 Uczestników/czek projektu i będzie obejmowało
-                                        2 spotkania z psychologiem po 3 godz. zegarowe.
+                                        Spotkania z prawnikiem przewidziano dla 26 Uczestników/czek projektu - śr. 2
+                                        godz. zegarowe dla Uczestnika/czki.
                                     </li>
                                 </ul>
                             </div>
@@ -289,7 +275,8 @@ export default function News() {
                         <h2 className="display-4 mb-3"></h2>
 
                         <p className="lead fs-lg">
-                            Instrumenty aktywizacji zawodowej – pośrednictwo pracy
+                            Kursy i szkolenia zawodowe – dla wszystkich Uczestników/czek
+                            projektu
                         </p>
 
                         <div className="row gy-3 gx-xl-8">
@@ -298,24 +285,29 @@ export default function News() {
 
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Celem pośrednictwa pracy będzie udzielanie pomocy osobom pozostającym
-                                        bez pracy w uzyskaniu odpowiedniego zatrudnienia, a także pracodawcom w
-                                        pozyskaniu pracowników o poszukiwanych kwalifikacjach zawodowych.
+                                        Celem kursów i szkoleń będzie zdobycie kompetencji lub kwalifikacji
+                                        zawodowych. Tematyka szkoleń będzie zgodna ze zdiagnozowanymi
+                                        potrzebami i potencjałem Uczestników/czek projektu oraz ze
+                                        zdiagnozowanymi potrzebami na rynku pracy.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        W ramach pośrednictwa pracy Uczestnik/czka projektu zostanie
-                                        wyposażony/a w umiejętność poruszania się po rynku pracy i samodzielnego
-                                        poszukiwania zatrudnienia.
+                                        Szkolenia umożliwią Uczestnikom zdobycie zatrudnienia i polepszenie swojej
+                                        sytuacji społecznej i zawodowej.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Każdy/a Uczestnik/czka projektu otrzyma śr. 4 godz. zegarowe
-                                        indywidualnego wsparcia.
+                                        Średnia liczba godzin kursu wyniesie 120 godzin dydaktycznych.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Wsparciem zostanie objętych 60 Uczestników/czek.
+                                        Dla 20 Uczestników/czek projektu zaplanowano egzamin zewnętrzny.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        W czasie realizacji szkoleń Uczestnikom projektu przysługuje catering,
+                                        stypendium szkoleniowe oraz w razie potrzeby zwroty kosztów dojazdu oraz
+                                        opieki nad dzieckiem/osobą zależną.
                                     </li>
                                 </ul>
                             </div>
@@ -348,7 +340,7 @@ export default function News() {
                         <h2 className="display-4 mb-3"></h2>
 
                         <p className="lead fs-lg">
-                            Kursy i szkolenia zawodowe
+                            Pośrednictwo pracy – dla wszystkich Uczestników/czek projektu
                         </p>
 
                         <div className="row gy-3 gx-xl-8">
@@ -356,38 +348,29 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Celem kursów/szkoleń zawodowych będzie zdobycie przez Uczestnika/czkę
-                                        kompetencji bądź kwalifikacji zawodowych.
+                                        Celem wsparcia będzie udzielenie Uczestnikom projektu pozostającym bez
+                                        pracy pomocy w uzyskaniu odpowiedniego zatrudnienia oraz pracodawcom w
+                                        pozyskaniu pracowników o poszukiwanych kwalifikacjach zawodowych.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Tematyka szkoleń oferowanych Uczestnikom/czkom projektu będzie wynikała
-                                        z Indywidualnej Ścieżki Reintegracji, w tym diagnozy potencjału, predyspozycji
-                                        oraz posiadanego już doświadczenia czy kwalifikacji Uczestnika/czki, a także
-                                        będzie uwzględniała aktualną sytuację i potrzeby lokalnego rynku pracy.
+                                        W ramach pośrednictwa pracy pośrednik zbierze niezbędne informacje o
+                                        Uczestnikach, pozyska oferty pracy i udzieli pracodawcom informacji o
+                                        kandydatach do pracy. Wspólnie z Uczestnikami przeanalizuje oferty pracy,
+                                        poinformuje o aktualnej sytuacji i przewidywanych zmianach na regionalnym i
+                                        lokalnym rynku pracy, zainicjuje i zorganizuje kontakty Uczestników projektu z
+                                        pracodawcami oraz poinformuje Uczestników o przysługujących im prawach i
+                                        obowiązkach.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Średnia liczba godzin kursu wyniesie 96 godzin szkoleniowych.                                    </li>
+                                        Dzięki pracy pośrednika z Uczestnikiem/czką projektu zdefiniowany zostanie
+                                        cel, zakres działań oraz termin realizacji poszukiwań właściwych ofert pracy.                                    </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Każdy Uczestnik/czka projektu będzie miał możliwość wzięcia udziału w
-                                        egzaminie zgodnym z rodzajem kształcenia.
+                                        Każdy/a Uczestnik/czka projektu otrzyma 2 godz. zegarowe wsparcia.
                                     </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        Uczestnikom/czkom kursów/szkoleń zostanie wypłacone stypendium
-                                        szkoleniowe.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        W ramach wsparcia Uczestnik/czka będzie mógł/mogła ubiegać się o zwrot
-                                        kosztów dojazdu i/lub zwrot kosztów opieki nad dzieckiem/osobą zależną.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        Wsparciem zostanie objętych 60 Uczestników/czek.
-                                    </li>
+
                                 </ul>
                             </div>
                         </div>
@@ -419,7 +402,7 @@ export default function News() {
                         <h2 className="display-4 mb-3"></h2>
 
                         <p className="lead fs-lg">
-                            Staże zawodowe
+                            Staże zawodowe – dla 21 Uczestników/czek projektu
                         </p>
 
                         <div className="row gy-3 gx-xl-8">
@@ -428,22 +411,24 @@ export default function News() {
 
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Celem staży będzie nabycie umiejętności praktycznych poprzez wykonywanie
-                                        zadań w miejscu pracy. Staże będą realizowane w zawodach powiązanych
-                                        tematycznie z odbytym szkoleniem.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        Skierowanie Uczestnika/czki projektu na staż będzie wynikać z IŚR oraz
-                                        jego/jej indywidualnych potrzeb.
-
+                                        Celem staży będzie polepszenie umiejętności praktycznych przez
+                                        Uczestników projektu oraz zdobycie doświadczenia zawodowego na
+                                        stanowisku związanym z tematyką szkolenia.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
                                         Czas pracy Uczestnika/czki odbywającego/j staż będzie trwał 8 godzin na
-                                        dobę (40 godzin tygodniowo), w przypadku osoby z niepełnosprawnością (w
+                                        dobę (40 godzin tygodniowo), a w przypadku osoby z niepełnosprawnością (w
                                         stopniu znacznym lub umiarkowanym) 7 godzin na dobę (35 godzin
                                         tygodniowo), każdorazowo przez okres 3 miesięcy.
+
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
+                                        Staże będą odbywać się firmach zlokalizowanych możliwie najbliżej miejsc
+                                        zamieszkania uczestników/czek projektu na stanowiskach w zakresie jakich
+                                        Uczestnik/czka projektu zdobył/a kwalifikacje/kompetencje zgodnie z
+                                        ustalonym programem stażu.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
@@ -454,20 +439,8 @@ export default function News() {
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Uczestnikom/czkom stażu zostanie wypłacone stypendium stażowe.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        Każdy/a stażysta/tka będzie zdobywać doświadczenie pod opieką Opiekuna
-                                        stażysty.                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        W ramach wsparcia Uczestnik/czka będzie mógł/mogła ubiegać się o zwrot
-                                        kosztów dojazdu na miejsce stażu.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        Wsparciem zostanie objętych 12 Uczestników/czek.
+                                        W ramach wsparcia Uczestnicy/czki projektu mogą ubiegać się o zwrot
+                                        kosztów opieki nad dzieckiem/osobą zależną.
                                     </li>
                                 </ul>
                             </div>
@@ -475,7 +448,7 @@ export default function News() {
                     </div>
                 </div>
 
-                <div className="row gx-lg-8 gx-xl-12 gy-10 mb-14 mb-md-17 align-items-center">
+                {/* <div className="row gx-lg-8 gx-xl-12 gy-10 mb-14 mb-md-17 align-items-center">
                     <div className="col-lg-6 position-relative order-lg-1">
 
                         <div className="overlap-grid overlap-grid-2">
@@ -609,7 +582,7 @@ export default function News() {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </>
     );

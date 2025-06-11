@@ -48,14 +48,13 @@ export default function Kontakt() {
                 <div className="row">
                     <div className="col text-center">
                         <h1>Biuro Projektu</h1>
-                        <p><strong>Adres:</strong> ul. Słowackiego 24 lok. 16A, 35-060 Rzeszów</p>
+                        <p><strong>Adres:</strong> Aleja Niepodległości 4 lok. 204, 96-100 Skierniewice</p>
                         <p>Biuro projektu czynne jest od poniedziałku do piątku w godzinach 8:00 - 16:00 (istnieje możliwość umówienia się na inne godziny spotkania)</p>
-                        <p><strong>Tel:</strong> +48 789 156 957</p>
-                        <p><strong>E-mail:</strong> <a href="mailto:integracja@rogszkolenia.pl" className="link-primary" target="_blank">integracja@rogszkolenia.pl</a> </p>
+                        <p><strong>Tel:</strong> +48 786 444 815</p>
+                        <p><strong>E-mail:</strong> <a href="mailto:strefaintegracji@gmail.com" className="link-primary" target="_blank">strefaintegracji@gmail.com</a> </p>
                     </div>
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1044.186354029244!2d22.00246526490173!3d50.03450141903533!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473cfb01d3f6086b%3A0x24949f781a7a09b6!2sJuliusza%20S%C5%82owackiego%2024%2F16a%2C%2035-060%20Rzesz%C3%B3w!5e1!3m2!1spl!2spl!4v1749507031019!5m2!1spl!2spl"
-
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d433.59015534332144!2d20.144943983387694!3d51.95258221705785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471960fe0106e855%3A0x34ac5339014b1453!2sAleja%20Niepodleg%C5%82o%C5%9Bci%204%2F204%2C%2096-100%20Skierniewice!5e1!3m2!1spl!2spl!4v1749643433258!5m2!1spl!2spl"
                         width={600}
                         height={450}
                         style={{ border: 0 }}

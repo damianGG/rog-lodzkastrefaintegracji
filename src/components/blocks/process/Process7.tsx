@@ -74,12 +74,23 @@ export default async function Process7() {
             </div>
           </div>
         </div>
-        {/* <div className="col-lg-12">
-          <p className="lead fs-lg pe-lg-5 mt-10"> Do wzięcia udziału w projekcie zapraszamy wszystkie chętne osoby spełniające
-            wyżej wymienione kryteria, a w szczególności kobiety zamieszkujące
-            obszary wiejskie na terenie województwa świętokrzyskiego oraz posiadające
-            orzeczenie o stopniu niepełnosprawności.</p>
-        </div> */}
+        <div className="col-lg-12">
+          <p className="lead fs-lg pe-lg-5 mt-10">
+            Rekrutacja realizowana będzie z uwzględnieniem zasady równych szans i płci oraz
+            niedyskryminacji, w tym dostępności dla osób z niepełnosprawnościami. Przy rekrutacji
+            stosowane będą także zasady zrównoważonego rozwoju.
+            <br />
+            Do wzięcia udziału w projekcie zapraszamy wszystkich chętnych spełniających wyżej
+            wymienione kryteria, a w szczególności zapraszamy kobiety, osoby z niepełnosprawnościami,
+            a także osoby pozostające bez pracy (bezrobotne, bierne zawodowo oraz długotrwale
+            bezrobotne).
+            <br />
+            <strong>
+              Istnieje możliwość skorzystania z tłumacza języka migowego lub pomocy asystenta osoby z
+              niepełnosprawnością, a także możliwość wejścia z psem asystującym.
+            </strong>
+          </p>
+        </div>
         {/* <div>
           <p className="lead fs-lg pe-lg-5 mt-10"> Rekrutacja realizowana będzie z uwzględnieniem zasady równych szans i płci oraz niedyskryminacji, w tym dostępności dla osób z niepełnosprawnościami. Przy rekrutacji stosowane będą także zasady zrównoważonego rozwoju.</p>
         </div> */}
@@ -89,7 +100,9 @@ export default async function Process7() {
         <div className="row mb-5">
           <div className="col-md-10 col-xl-8 col-xxl-7 mx-auto text-center">
             <h2 className="display-4 mb-4 px-lg-14">Jak zgłosić się do projektu?</h2>
-            <p>Jeśli spełniasz warunki udziału w projekcie to: </p>
+            <p>Komplet dokumentów rekrutacyjnych można składać osobiście w Biurze projektu bądź
+              przesyłać je listownie lub e-mailem. </p>
+            <p className="display-4 mb-4 px-lg-14">Na komplet dokumentów rekrutacyjnych składa się:</p>
             <div className="col-lg-12 order-lg-2">
               <div className="shadow-lg mt-10">
                 <div className="card-body p-6">
@@ -100,9 +113,8 @@ export default async function Process7() {
                       </span>
                     </div>
                     <div>
-                      <h4 className="mb-1 text-start">Wydrukuj dokumenty rekrutacyjne i wypełnij je <br />
-                        (Formularz rekrutacyjny, zał. 1 Oświadczenie Uczestnika projektu, zał. 2 Informacja o
-                        przetwarzaniu danych osobowych)</h4>
+                      <h4 className="mb-1 text-start">Formularz rekrutacyjny – załącznik nr 1 do Regulaminu rekrutacji i uczestnictwa
+                        w projekcie;</h4>
                       <p className="mb-0"></p>
                     </div>
                   </div>
@@ -123,8 +135,8 @@ export default async function Process7() {
                     </div>
                     <div>
                       <h4 className="mb-1 text-start">
-                        Wybierz z Zakładu Ubezpieczeń Społecznych lub Powiatowego Urzędu Pracy
-                        wymagane zaświadczenie
+                        Kopia dokumentu potwierdzającego obywatelstwo tj. np. paszport, wiza, karta
+                        stałego/czasowego pobytu (w przypadku braku polskiego obywatelstwa);
                       </h4>
                       <p className="mb-0"></p>
                     </div>
@@ -145,19 +157,92 @@ export default async function Process7() {
                       </span>
                     </div>
                     <div>
-                      <h4 className="mb-1 text-start ">Zgromadź dokumenty potwierdzające status osoby zagrożonej ubóstwem lub
-                        wykluczeniem społecznym oraz pozostałe wymagane załączniki</h4>
+                      <h4 className="mb-1 text-start ">Dokument potwierdzający miejsce zamieszkania na terenie województwa
+                        łódzkiego (np. zaświadczenie z Urzędu Miasta/Gminy lub deklaracja za śmieci lub
+                        akt własności lokalu mieszkalnego lub umowa najmu lokalu mieszkalnego lub PIT
+                        lub faktura np. za telefon (gdzie wskazany jest adresem miejsca zamieszkania) lub
+                        w przypadku osób pobierających np. 800 plus lub bon żłobkowy lub świadczenia z
+                        rodzinnego kapitału opiekuńczego -  decyzji wydanej w tej sprawie gdzie wskazano
+                        adres miejsca zamieszkania wnioskodawcy lub dokument z ZUS potwierdzający
+                        zgłoszenie do ubezpieczeń i miejsce zamieszkania uczestniczki projektu);</h4>
                       <p className="mb-0"></p>
                     </div>
                   </div>
                 </div>
               </div>
-              <div className="text-center mt-4">
+              <div className="shadow-lg mt-10">
+                <div className="card-body p-6">
+                  <div className="d-flex flex-row">
+                    <div>
+                      <span className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-4">
+                        <span className="number">3</span>
+                      </span>
+                    </div>
+                    <div>
+                      <h4 className="mb-1 text-start ">Orzeczenie o stopniu niepełnosprawności w rozumieniu ustawy z dnia 27 sierpnia
+                        1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób
+                        niepełnosprawnych (Dz. U. z 2023 r. poz. 100, z późn. zm.) lub orzeczenia albo
+                        innego dokumentu, o którym mowa w ustawie z dnia 19 sierpnia 1994 o ochronie
+                        zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123)(jeśli dotyczy);</h4>
+                      <p className="mb-0"></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="shadow-lg mt-10">
+                <div className="card-body p-6">
+                  <div className="d-flex flex-row">
+                    <div>
+                      <span className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-4">
+                        <span className="number">3</span>
+                      </span>
+                    </div>
+                    <div>
+                      <h4 className="mb-1 text-start ">Oświadczenie o kryzysie bezdomności lub dotknięciu wykluczeniem z dostępu do
+                        mieszkań (jeśli dotyczy);</h4>
+                      <p className="mb-0"></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="shadow-lg mt-10">
+                <div className="card-body p-6">
+                  <div className="d-flex flex-row">
+                    <div>
+                      <span className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-4">
+                        <span className="number">3</span>
+                      </span>
+                    </div>
+                    <div>
+                      <h4 className="mb-1 text-start ">Klauzula informacyjna Instytucji Zarządzającej - załącznik nr 2 do Regulaminu
+                        rekrutacji i uczestnictwa w projekcie; - obligatoryjnie</h4>
+                      <p className="mb-0"></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="shadow-lg mt-10">
+                <div className="card-body p-6">
+                  <div className="d-flex flex-row">
+                    <div>
+                      <span className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-4">
+                        <span className="number">3</span>
+                      </span>
+                    </div>
+                    <div>
+                      <h4 className="mb-1 text-start ">Klauzula informacyjna Instytucji Pośredniczącej - załącznik nr 3 do Regulaminu
+                        rekrutacji i uczestnictwa w projekcie.</h4>
+                      <p className="mb-0"></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              {/* <div className="text-center mt-4">
                 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" className="bi bi-arrow-down" viewBox="0 0 16 16">
                   <path fillRule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L7.5 13.293V1.5A.5.5 0 0 1 8 1" />
                 </svg>
-              </div>
-              <div className="shadow-lg mt-10">
+              </div> */}
+              {/* <div className="shadow-lg mt-10">
                 <div className="card-body p-6">
                   <div className="d-flex flex-row">
                     <div>
@@ -173,13 +258,13 @@ export default async function Process7() {
                     </div>
                   </div>
                 </div>
-              </div>
-              <div className="text-center mt-4">
+              </div> */}
+              {/* <div className="text-center mt-4">
                 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" className="bi bi-arrow-down" viewBox="0 0 16 16">
                   <path fillRule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L7.5 13.293V1.5A.5.5 0 0 1 8 1" />
                 </svg>
-              </div>
-              <div className="shadow-lg mt-10 mb-10">
+              </div> */}
+              {/* <div className="shadow-lg mt-10 mb-10">
                 <div className="card-body p-6">
                   <div className="d-flex flex-row">
                     <div>
@@ -194,12 +279,14 @@ export default async function Process7() {
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> */}
               {/* Reszta kroków */}
             </div>
           </div>
         </div>
-        <p className="text-center mt-5">
+        <p className="text-center mt-5">Aby uzyskać więcej informacji prosimy o kontakt z Biurem projektu – dane w zakładce
+          <a href="/kontakt">„Kontakt”</a></p>
+        {/* <p className="text-center mt-5">
           Jeśli potrzebujesz pomocy w wypełnieniu dokumentów rekrutacyjnych zapraszamy
           do Biura projektu (patrz zakładka <a href="/kontakt">„Kontakt”</a> ).Ponadto zapewniamy
           możliwość skorzystania z tłumacza języka migowego, pętli indukcyjnej lub pomocy
@@ -207,7 +294,7 @@ export default async function Process7() {
           do Biura projektu (np. osoby z niepełnosprawnościami) możliwy jest dojazd do
           Kandydatów/ek do domu i pomoc kadry projektu w wypełnieniu dokumentów
           rekrutacyjnych.
-        </p>
+        </p> */}
 
       </div>
       <div className="container pt-10 pt-md-10 pb-13 pb-md-15">

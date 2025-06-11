@@ -40,8 +40,9 @@ export default function Hero4() {
 
           <div className="col-lg-5 mt-lg-n10 text-center text-lg-start">
             <h1 className="display-1 mb-5 fs-40" style={slideInDownAnimate("600ms")}>
-              „Podkarpacka Strefa Integracji”
+              „Łódzka Strefa Integracji!”
             </h1>
+            <h4>Okres realizacji: 01.01.2025 r. – 31.12.2025 r.</h4>
 
 
 

@@ -17,27 +17,27 @@ export const processList1 = [
   {
     no: "1",
     className: "card shadow-lg w-full max-w-[600px] mb-3 mx-auto",
-    title: "osoby powyżej 18 roku życia,",
+    title: "Osoby w wieku 29 lat i więcej,",
     subtitle: "",
     shadow: true
   },
   {
     no: "2",
-    title: "pozostające bez pracy – bezrobotne lub bierne zawodowo,",
+    title: "Osoby zamieszkujące na terenie województwa łódzkiego,",
     className: "card shadow-lg w-full max-w-[600px] mb-3 mx-auto text-start",
     shadow: true,
     subtitle: ""
   },
   {
     no: "3",
-    title: "zagrożone ubóstwem lub wykluczeniem społecznym,",
+    title: "Osoby zagrożone ubóstwem i wykluczeniem społecznym,",
     className: "card shadow-lg w-full max-w-[600px] mb-3 mx-auto",
     shadow: true,
     subtitle: ""
   },
   {
     no: "4",
-    title: "zamieszkujące na obszarze woj. podkarpackiego.",
+    title: "Osoby pozostające bez pracy (osoby bezrobotne i bierne zawodowo).",
     className: "card shadow-lg w-full max-w-[600px] mb-3 mx-auto",
     shadow: true,
     subtitle: ""

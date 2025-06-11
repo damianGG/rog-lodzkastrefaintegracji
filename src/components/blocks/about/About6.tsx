@@ -17,47 +17,62 @@ export default function About6() {
           <h2 className="display-4 mb-3 text-center mb-10">Zapraszamy do projektu <br></br> „Podkarpacka Strefa Integracji”</h2>
           <div className="col-lg-12">
             <p className="lead fs-lg">
-              Kto może wziąć udział w projekcie?
+              Rusza I tura naboru do projektu „Łódzka Strefa Integracji!”
             </p>
+            <p>Zapraszamy osoby zagrożone ubóstwem i wykluczeniem społecznym oraz ich otoczenie
+              zamieszkujące na terenie województwa łódzkiego w wieku 29 lat i więcej do udziału w
+              projekcie „Łódzka Strefa Integracji!”.</p>
             <div className="row gy-3 ">
               <div className="col-xl-12">
-                <h4 className="lead fs-lg mt-3">Osoby spełniające łącznie następujące warunki:</h4>
+                <p className="lead fs-lg mt-3">W ramach projektu oferujemy:</p>
                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
-                  <li><i className="uil uil-check"></i>wiek powyżej 18 roku życia
+                  <li><i className="uil uil-check"></i>wsparcie doradcy zawodowego i psychologa w stworzeniu Indywidualnej Ścieżki
+                    Reintegracji,
                   </li>
-                  <li className="mt-3"><i className="uil uil-check"></i>zamieszkiwanie na obszarze woj. podkarpackiego</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>bez zatrudnienia (zarówno osoby bezrobotne jak i bierne zawodowo)</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>zagrożone ubóstwem lub wykluczeniem społecznym</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>indywidualne specjalistyczne poradnictwo psychologiczne oraz prawne,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>bezpłatne kusy i szkolenia zawodowe,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>obiad i przerwę kawową w trakcie szkoleń,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>bezpłatne materiały szkoleniowe,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>pośrednictwo pracy,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>staże zawodowe,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>stypendium stażowe,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>badania lekarskie,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>ubezpieczenia społeczne, zdrowotne i NNW,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>możliwość zwrotu kosztów dojazdu na szkolenia i staże,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>możliwość zwrotu kosztów opieki nad dzieckiem lub osobą zależną.</li>
+
                 </ul>
-                <h4 className="lead fs-lg mt-5">W ramach projektu oferujemy:</h4>
+                <h4 className="lead fs-lg mt-5">Udział w projekcie jest bezpłatny.</h4>
+                <p className="lead fs-lg mt-5">W projekcie mogą uczestniczyć osoby, które spełniają następujące kryteria:</p>
                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
-                  <li><i className="uil uil-check"></i>wsparcie doradcy zawodowego w zaplanowaniu indywidualnej ścieżki reintegracji
+                  <li><i className="uil uil-check"></i>Osoby w wieku 29 lat i więcej,
                   </li>
-                  <li className="mt-3"><i className="uil uil-check"></i>wsparcie psychologiczne</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>porady prawne</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>life-coaching</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>warsztaty rozwoju osobistego</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>pośrednictwo pracy</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>szkolenie zawodowe umożliwiające zdobycie nowych kompetencji lub kwalifikacji</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>obiad i przerwa kawowa w trakcie szkolenia</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>bezpłatne materiały szkoleniowe</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>staż zawodowy trwający 3 miesiące</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>stypendium stażowe</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>zwrot kosztów dojazdu na szkolenia oraz staż zawodowy</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>wsparcie mentora i trenera pracy dla osób podejmujących zatrudnienie</li>
-                  <li className="mt-3"><i className="uil uil-check"></i>usługi zdrowotne</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>Osoby zamieszkujące na terenie województwa łódzkiego,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>Osoby zagrożone ubóstwem i wykluczeniem społecznym,</li>
+                  <li className="mt-3"><i className="uil uil-check"></i>Osoby pozostające bez pracy (osoby bezrobotne i bierne zawodowo).</li>
+
                 </ul>
               </div>
 
             </div>
 
           </div>
-          {/* <p className="lead fs-lg mt-10">
-            W szczególności do udziału w projekcie zapraszamy kobiety zamieszkujące obszary
-            wiejskie na terenie województwa świętokrzyskiego oraz posiadające orzeczenie o
-            stopniu niepełnosprawności.
-          </p> */}
+          <p className="lead fs-lg mt-10">
+            W szczególności do udziału w projekcie zapraszamy kobiety, osoby z
+            niepełnosprawnościami, a także osoby pozostające bez pracy (bezrobotne, bierne zawodowo
+            oraz długotrwale bezrobotne).
+          </p>
+          <p className="lead fs-lg mt-10">
+            Komplet dokumentów rekrutacyjnych (patrz zakładka <a href="/rekrutacja"> „Rekrutacja”</a> ) można składać osobiście
+            w Biurze Projektu bądź przesyłać je drogą pocztową lub e-mailem.
+          </p>
+          <p className="lead fs-lg mt-10">
+            I tura rekrutacji trwa od 01.07.2024 r. – 31.08.2024 r.
+          </p>
+          <p className="lead fs-lg mt-10">
+            Aby uzyskać więcej informacji prosimy o kontakt z Biurem projektu – patrz zakładka <a href="/kontakt">Kontakt</a>.
+          </p>
         </div>
       </div>
 

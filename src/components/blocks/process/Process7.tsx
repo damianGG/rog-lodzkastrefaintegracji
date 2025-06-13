@@ -64,6 +64,9 @@ export default async function Process7() {
         <div className="row mb-5">
           <div className="col-md-12 col-xl-12 col-xxl-12 mx-auto text-center">
             <h2 className="display-4 mb-4 px-lg-10">KTO MOŻE WZIĄĆ UDZIAŁ W PROJEKCIE? <br></br></h2>
+            <p className="mt-3">W
+              projekcie mogą uczestniczyć osoby, które spełniają następujące
+              kryteria</p>
             <div className="col-lg-12 order-lg-2 flex flex-col items-center gap-4 mx-auto " >
               {processList1.map((item) => (
                 <ProcessList1 {...item} key={item.no} />
@@ -79,23 +82,32 @@ export default async function Process7() {
             Rekrutacja realizowana będzie z uwzględnieniem zasady równych szans i płci oraz
             niedyskryminacji, w tym dostępności dla osób z niepełnosprawnościami. Przy rekrutacji
             stosowane będą także zasady zrównoważonego rozwoju.
-            <br />
-            Do wzięcia udziału w projekcie zapraszamy wszystkich chętnych spełniających wyżej
-            wymienione kryteria, a w szczególności zapraszamy kobiety, osoby z niepełnosprawnościami,
-            a także osoby pozostające bez pracy (bezrobotne, bierne zawodowo oraz długotrwale
-            bezrobotne).
-            <br />
+          </p>
+          <br />
+          <p className="lead fs-lg pe-lg-5 mt-10">
+            Do wzięcia udziału w projekcie zapraszamy wszystkich chętnych
+            spełniających wyżej wymienione kryteria, a w szczególności zapraszamy
+            kobiety, osoby z niepełnosprawnościami oraz osoby długotrwale
+            bezrobotne.
+
+          </p>
+
+          <br />
+          <p className="lead fs-lg pe-lg-5 mt-10">
             <strong>
               Istnieje możliwość skorzystania z tłumacza języka migowego lub pomocy asystenta osoby z
               niepełnosprawnością, a także możliwość wejścia z psem asystującym.
             </strong>
+
           </p>
+
+
         </div>
         {/* <div>
           <p className="lead fs-lg pe-lg-5 mt-10"> Rekrutacja realizowana będzie z uwzględnieniem zasady równych szans i płci oraz niedyskryminacji, w tym dostępności dla osób z niepełnosprawnościami. Przy rekrutacji stosowane będą także zasady zrównoważonego rozwoju.</p>
         </div> */}
 
-      </div>
+      </div >
       <div className="container pt-10 pt-md-10 pb-13 pb-md-15">
         <div className="row mb-5">
           <div className="col-md-10 col-xl-8 col-xxl-7 mx-auto text-center">
@@ -158,13 +170,14 @@ export default async function Process7() {
                     </div>
                     <div>
                       <h4 className="mb-1 text-start ">Dokument potwierdzający miejsce zamieszkania na terenie województwa
-                        łódzkiego (np. zaświadczenie z Urzędu Miasta/Gminy lub deklaracja za śmieci lub
-                        akt własności lokalu mieszkalnego lub umowa najmu lokalu mieszkalnego lub PIT
-                        lub faktura np. za telefon (gdzie wskazany jest adresem miejsca zamieszkania) lub
-                        w przypadku osób pobierających np. 800 plus lub bon żłobkowy lub świadczenia z
-                        rodzinnego kapitału opiekuńczego -  decyzji wydanej w tej sprawie gdzie wskazano
-                        adres miejsca zamieszkania wnioskodawcy lub dokument z ZUS potwierdzający
-                        zgłoszenie do ubezpieczeń i miejsce zamieszkania uczestniczki projektu);</h4>
+                        łódzkiego (np. zaświadczenie z Urzędu Miasta/Gminy lub deklaracja za
+                        śmieci lub akt własności lokalu mieszkalnego lub umowa najmu lokalu
+                        mieszkalnego lub PIT lub faktura np. za telefon (gdzie wskazany jest
+                        adresem miejsca zamieszkania) lub w przypadku osób pobierających np. 800
+                        plus lub bon żłobkowy lub świadczenia z rodzinnego kapitału opiekuńczego
+                        -  decyzji wydanej w tej sprawie gdzie wskazano adres miejsca
+                        zamieszkania wnioskodawcy lub dokument z ZUS potwierdzający zgłoszenie
+                        do ubezpieczeń i miejsce zamieszkania Uczestniczka/czki projektu)</h4>
                       <p className="mb-0"></p>
                     </div>
                   </div>
@@ -175,7 +188,7 @@ export default async function Process7() {
                   <div className="d-flex flex-row">
                     <div>
                       <span className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-4">
-                        <span className="number">3</span>
+                        <span className="number">4</span>
                       </span>
                     </div>
                     <div>
@@ -194,7 +207,7 @@ export default async function Process7() {
                   <div className="d-flex flex-row">
                     <div>
                       <span className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-4">
-                        <span className="number">3</span>
+                        <span className="number">5</span>
                       </span>
                     </div>
                     <div>
@@ -226,7 +239,7 @@ export default async function Process7() {
                   <div className="d-flex flex-row">
                     <div>
                       <span className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-4">
-                        <span className="number">3</span>
+                        <span className="number">6</span>
                       </span>
                     </div>
                     <div>

@@ -16,7 +16,7 @@ export default function PopupForm() {
             <span style={slideInDownAnimate('1200ms')}>
                 <button
                     onClick={handleShow}
-                    className="btn btn-lg btn-primary rounded-pill me-2"
+                    className="me-5 btn btn-lg btn-ghost rounded-pill bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white  px-4 border border-blue-500 hover:border-transparent rounded "
                 >
                     Zapisz się
                 </button>

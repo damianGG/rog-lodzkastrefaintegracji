@@ -110,6 +110,11 @@ export default function News() {
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
+                                        Na podstawie Indywidualnej Ścieżki Reintegracji i indywidualnej diagnozy
+                                        dobierany będzie rodzaj wsparcia dla każdego/j Uczestnika/czki.
+                                    </li>
+                                    <li className="mt-3">
+                                        <i className="uil uil-check" />
                                         Na koniec wsparcia danego/j Uczestnika/czki nastąpi podsumowanie IŚR.
                                     </li>
                                     <li className="mt-3">
@@ -118,7 +123,6 @@ export default function News() {
                                         doradcą zawodowym oraz 2 godz. zegarowe indywidualnych sesji z
                                         psychologiem.
                                     </li>
-
 
                                 </ul>
                             </div>
@@ -179,10 +183,10 @@ export default function News() {
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
                                         Dzięki pracy z psychologiem Uczestnicy/czki odreagują napięcie/stres
-                                        związane z trudnościami, będą mogli rozpoznać i zrozumieć swoje problemy,
-                                        wspólnie poszukają ich źródła, a także sposobów ich rozwiązania, odzyskają
-                                        wpływ na kształtowanie swojego życia i uwierzą we własne siły, a także
-                                        zostaną ustalone cele i sposoby działania w sytuacjach kryzysowych.
+                                        związane z trudnościami, będą mogli/ły rozpoznać i zrozumieć swoje
+                                        problemy, wspólnie poszukają ich źródła, a także sposobów ich rozwiązania,
+                                        odzyskają wpływ na kształtowanie swojego życia i uwierzą we własne siły, a
+                                        także zostaną ustalone cele i sposoby działania w sytuacjach kryzysowych.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
@@ -205,9 +209,9 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Celem wsparcia będzie udzielenie Uczestnikom projektu porad prawnych dot.
-                                        m.in. prawa pracy, cywilnego i rodzinnego, rozwiązywania spraw
-                                        mieszkaniowych, socjalnych i alimentacyjnych, udzielania informacji o
+                                        Celem wsparcia będzie udzielenie Uczestnikom/czkom projektu porad
+                                        prawnych dot. m.in. prawa pracy, cywilnego i rodzinnego, rozwiązywania
+                                        spraw mieszkaniowych, socjalnych i alimentacyjnych, udzielania informacji o
                                         możliwości korzystania ze świadczeń z pomocy społecznej i innych rozwiązań
                                         ustaw. oraz udzielenie pomocy w pisaniu pism/wniosków do urzędów.
                                     </li>
@@ -292,8 +296,8 @@ export default function News() {
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Szkolenia umożliwią Uczestnikom zdobycie zatrudnienia i polepszenie swojej
-                                        sytuacji społecznej i zawodowej.
+                                        Szkolenia umożliwią Uczestnikom/czkom zdobycie zatrudnienia i polepszenie
+                                        swojej sytuacji społecznej i zawodowej.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
@@ -305,7 +309,7 @@ export default function News() {
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        W czasie realizacji szkoleń Uczestnikom projektu przysługuje catering,
+                                        W czasie realizacji szkoleń Uczestnikom/czkom projektu przysługuje catering,
                                         stypendium szkoleniowe oraz w razie potrzeby zwroty kosztów dojazdu oraz
                                         opieki nad dzieckiem/osobą zależną.
                                     </li>
@@ -348,19 +352,20 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Celem wsparcia będzie udzielenie Uczestnikom projektu pozostającym bez
-                                        pracy pomocy w uzyskaniu odpowiedniego zatrudnienia oraz pracodawcom w
-                                        pozyskaniu pracowników o poszukiwanych kwalifikacjach zawodowych.
+                                        Celem wsparcia będzie udzielenie Uczestnikom/czkom projektu pozostającym
+                                        bez pracy pomocy w uzyskaniu odpowiedniego zatrudnienia oraz
+                                        pracodawcom w pozyskaniu pracowników o poszukiwanych kwalifikacjach
+                                        zawodowych.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
                                         W ramach pośrednictwa pracy pośrednik zbierze niezbędne informacje o
-                                        Uczestnikach, pozyska oferty pracy i udzieli pracodawcom informacji o
-                                        kandydatach do pracy. Wspólnie z Uczestnikami przeanalizuje oferty pracy,
-                                        poinformuje o aktualnej sytuacji i przewidywanych zmianach na regionalnym i
-                                        lokalnym rynku pracy, zainicjuje i zorganizuje kontakty Uczestników projektu z
-                                        pracodawcami oraz poinformuje Uczestników o przysługujących im prawach i
-                                        obowiązkach.
+                                        Uczestnikach/czkach, pozyska oferty pracy i udzieli pracodawcom informacji o
+                                        kandydatach do pracy. Wspólnie z Uczestnikami/czkami przeanalizuje oferty
+                                        pracy, poinformuje o aktualnej sytuacji i przewidywanych zmianach na
+                                        regionalnym i lokalnym rynku pracy, zainicjuje i zorganizuje kontakty
+                                        Uczestników/czek projektu z pracodawcami oraz poinformuje
+                                        Uczestników/czki o przysługujących im prawach i obowiązkach.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
@@ -412,7 +417,7 @@ export default function News() {
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
                                         Celem staży będzie polepszenie umiejętności praktycznych przez
-                                        Uczestników projektu oraz zdobycie doświadczenia zawodowego na
+                                        Uczestników/czki projektu oraz zdobycie doświadczenia zawodowego na
                                         stanowisku związanym z tematyką szkolenia.
                                     </li>
                                     <li className="mt-3">
@@ -426,16 +431,9 @@ export default function News() {
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
                                         Staże będą odbywać się firmach zlokalizowanych możliwie najbliżej miejsc
-                                        zamieszkania uczestników/czek projektu na stanowiskach w zakresie jakich
+                                        zamieszkania Uczestników/czek projektu na stanowiskach w zakresie jakich
                                         Uczestnik/czka projektu zdobył/a kwalifikacje/kompetencje zgodnie z
                                         ustalonym programem stażu.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
-                                        Staże odbywać się będą w firmach zlokalizowanych możliwie najbliżej miejsc
-                                        zamieszkania Uczestników/czek projektu, na stanowiskach w zakresie jakich
-                                        Uczestnik/czka projektu zdobył/a kwalifikacje/kompetencje, zgodnie
-                                        z ustalonym programem stażu.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />

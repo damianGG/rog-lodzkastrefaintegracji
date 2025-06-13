@@ -14,7 +14,7 @@ export default function About6() {
 
         <div className="col-lg-12">
 
-          <h2 className="display-4 mb-3 text-center mb-10">Zapraszamy do projektu <br></br> „Podkarpacka Strefa Integracji”</h2>
+          <h2 className="display-4 mb-3 text-center mb-10">Zapraszamy do projektu <br></br> „Łódzka Strefa Integracji!”</h2>
           <div className="col-lg-12">
             <p className="lead fs-lg">
               Rusza I tura naboru do projektu „Łódzka Strefa Integracji!”
@@ -60,16 +60,13 @@ export default function About6() {
           </div>
           <p className="lead fs-lg mt-10">
             W szczególności do udziału w projekcie zapraszamy kobiety, osoby z
-            niepełnosprawnościami, a także osoby pozostające bez pracy (bezrobotne, bierne zawodowo
-            oraz długotrwale bezrobotne).
+            niepełnosprawnościami, a także osoby długotrwale bezrobotne..
           </p>
           <p className="lead fs-lg mt-10">
             Komplet dokumentów rekrutacyjnych (patrz zakładka <a href="/rekrutacja"> „Rekrutacja”</a> ) można składać osobiście
             w Biurze Projektu bądź przesyłać je drogą pocztową lub e-mailem.
           </p>
-          <p className="lead fs-lg mt-10">
-            I tura rekrutacji trwa od 01.07.2024 r. – 31.08.2024 r.
-          </p>
+
           <p className="lead fs-lg mt-10">
             Aby uzyskać więcej informacji prosimy o kontakt z Biurem projektu – patrz zakładka <a href="/kontakt">Kontakt</a>.
           </p>

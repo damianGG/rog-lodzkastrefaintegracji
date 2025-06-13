@@ -16,7 +16,7 @@ import CloudComputing from "@/icons/lineal/CloudComputing";
 export const processList1 = [
   {
     no: "1",
-    className: "card shadow-lg w-full max-w-[600px] mb-3 mx-auto",
+    className: "card shadow-lg w-full max-w-[600px] mb-3 mx-auto text-start",
     title: "Osoby w wieku 29 lat i więcej,",
     subtitle: "",
     shadow: true
@@ -31,14 +31,14 @@ export const processList1 = [
   {
     no: "3",
     title: "Osoby zagrożone ubóstwem i wykluczeniem społecznym,",
-    className: "card shadow-lg w-full max-w-[600px] mb-3 mx-auto",
+    className: "card shadow-lg w-full max-w-[600px] mb-3 mx-auto text-start",
     shadow: true,
     subtitle: ""
   },
   {
     no: "4",
     title: "Osoby pozostające bez pracy (osoby bezrobotne i bierne zawodowo).",
-    className: "card shadow-lg w-full max-w-[600px] mb-3 mx-auto",
+    className: "card shadow-lg w-full max-w-[600px] mb-3 mx-auto text-start",
     shadow: true,
     subtitle: ""
   }

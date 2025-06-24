@@ -110,11 +110,6 @@ export default function News() {
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
-                                        Na podstawie Indywidualnej Ścieżki Reintegracji i indywidualnej diagnozy
-                                        dobierany będzie rodzaj wsparcia dla każdego/j Uczestnika/czki.
-                                    </li>
-                                    <li className="mt-3">
-                                        <i className="uil uil-check" />
                                         Na koniec wsparcia danego/j Uczestnika/czki nastąpi podsumowanie IŚR.
                                     </li>
                                     <li className="mt-3">
@@ -261,7 +256,8 @@ export default function News() {
                                 <figure className="rounded shadow">
                                     <Image
 
-                                        src="/img/photos/4 Instrumenty aktywizacji zawodowej.webp"
+                                        src="/img/photos/5 Kursy i szkolenia zawodowe.webp"
+
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -326,7 +322,8 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/5 Kursy i szkolenia zawodowe.webp"
+
+                                        src="/img/photos/4 Instrumenty aktywizacji zawodowej.webp"
                                         width={600}
                                         height={1000}
                                         alt="hero"

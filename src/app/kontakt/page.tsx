@@ -51,7 +51,7 @@ export default function Kontakt() {
                         <p><strong>Adres:</strong> Aleja Niepodległości 4 lok. 204, 96-100 Skierniewice</p>
                         <p>Biuro projektu czynne jest od poniedziałku do piątku w godzinach 8:00 - 16:00 (istnieje możliwość umówienia się na inne godziny spotkania)</p>
                         <p><strong>Tel:</strong> +48 786 444 815</p>
-                        <p><strong>E-mail:</strong> <a href="mailto:strefaintegracji@gmail.com" className="link-primary" target="_blank">strefaintegracji@gmail.com</a> </p>
+                        <p><strong>E-mail:</strong> <a href="mailto:strefaintegracji@rogszkolenia.pl" className="link-primary" target="_blank">strefaintegracji@rogszkolenia.pl</a> </p>
                     </div>
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d433.59015534332144!2d20.144943983387694!3d51.95258221705785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471960fe0106e855%3A0x34ac5339014b1453!2sAleja%20Niepodleg%C5%82o%C5%9Bci%204%2F204%2C%2096-100%20Skierniewice!5e1!3m2!1spl!2spl!4v1749643433258!5m2!1spl!2spl"

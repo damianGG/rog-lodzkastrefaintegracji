@@ -332,7 +332,7 @@ export default async function Process7() {
               Wersja czarno-biała dotyczy sytuacji braku możliwości wydruku w kolorze.</p>
             {/* Sprawdź, czy dane są puste */}
             {data.length === 0 ? (
-              <p className="text-danger">Strona w budowie</p>
+              <p className="text-danger">Wkrótce pojawią się tutaj dokumenty do pobrania</p>
             ) : (
               <div className="col-lg-12 order-lg-2">
                 {/* Iteruj po dokumentach */}

@@ -54,7 +54,7 @@ export default function News() {
                         zwiększenie zdolności do zatrudnienia w szczególności grup w niekorzystnej sytuacji,
                         tj. 52 osób (32K, 20M) zagrożonych ubóstwem i wykluczeniem społecznym oraz ich
                         otoczenia powyżej 29 roku życia, zamieszkujących na obszarze woj. łódzkiego w
-                        rozumieniu KC w okresie 01.01.2025-31.12.2025.
+                        rozumieniu KC w okresie 01.01.2025-31.01.2026.
                         <br />
 
                     </p>

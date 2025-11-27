@@ -20,7 +20,7 @@ export default function About6() {
               Rusza I tura naboru do projektu „Łódzka Strefa Integracji!”
             </p>
             <p>Zapraszamy osoby zagrożone ubóstwem i wykluczeniem społecznym oraz ich otoczenie
-              zamieszkujące na terenie województwa łódzkiego w wieku 29 lat i więcej do udziału w
+              zamieszkujące na terenie województwa łódzkiego w wieku powyżej 29 roku życia do udziału w
               projekcie „Łódzka Strefa Integracji!”.</p>
             <div className="row gy-3 ">
               <div className="col-xl-12">
@@ -46,7 +46,7 @@ export default function About6() {
                 <h4 className="lead fs-lg mt-5">Udział w projekcie jest bezpłatny.</h4>
                 <p className="lead fs-lg mt-5">W projekcie mogą uczestniczyć osoby, które spełniają następujące kryteria:</p>
                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
-                  <li><i className="uil uil-check"></i>Osoby w wieku 29 lat i więcej,
+                  <li><i className="uil uil-check"></i>Osoby w wieku powyżej 29 roku życia,
                   </li>
                   <li className="mt-3"><i className="uil uil-check"></i>Osoby zamieszkujące na terenie województwa łódzkiego,</li>
                   <li className="mt-3"><i className="uil uil-check"></i>Osoby zagrożone ubóstwem i wykluczeniem społecznym,</li>

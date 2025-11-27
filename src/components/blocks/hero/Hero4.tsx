@@ -42,7 +42,7 @@ export default function Hero4() {
             <h1 className="display-1 mb-5 fs-40" style={slideInDownAnimate("600ms")}>
               „Łódzka Strefa Integracji!”
             </h1>
-            <h4>Okres realizacji: 01.01.2025 r. – 31.12.2025 r.</h4>
+            <h4>Okres realizacji: 01.01.2025 r. – 31.01.2026 r.</h4>
 
 
 

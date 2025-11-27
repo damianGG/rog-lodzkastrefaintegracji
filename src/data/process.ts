@@ -17,7 +17,7 @@ export const processList1 = [
   {
     no: "1",
     className: "card shadow-lg w-full max-w-[600px] mb-3 mx-auto text-start",
-    title: "Osoby w wieku 29 lat i więcej,",
+    title: "Osoby w wieku powyżej 29 roku życia",
     subtitle: "",
     shadow: true
   },
